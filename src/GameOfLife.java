@@ -6,7 +6,6 @@ public class GameOfLife extends Engine {
     }
 
     public void update() {
-        for (int x = 10 ; x < 90 ; x++)
-            drawPixel(x,50, 0xFF00FF);
+
     }
 }
